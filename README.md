@@ -1,73 +1,16 @@
-# Welcome to your sakshi project
+# Project URL
+smart-business-management.vercel.app
 
-## Project info
+#Output of my project
 
-**URL**: https://sakshi.dev/projects/REPLACE_WITH_PROJECT_ID
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use sakshi**
-
-Simply visit the [sakshi Project](https://sakshi.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via sakshi will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in sakshi.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [sakshi](https://sakshi.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my sakshi project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.sakshi.dev/features/custom-domain#custom-domain)
+<img width="1907" height="872" alt="Screenshot 2026-02-16 130401" src="https://github.com/user-attachments/assets/9277864e-5767-4854-a056-20689ce1bd3e" />
+<img width="1897" height="865" alt="Screenshot 2026-02-16 130428" src="https://github.com/user-attachments/assets/87145d1a-2fa9-44f2-90f7-f5209061facc" />
+<img width="1887" height="864" alt="Screenshot 2026-02-16 130444" src="https://github.com/user-attachments/assets/9172f6fa-c8ec-4dd9-b40f-69d2a2f64965" />
+<img width="1889" height="857" alt="Screenshot 2026-02-16 130509" src="https://github.com/user-attachments/assets/07c0ca64-f90c-4bf8-982f-06c02ebbe123" />
+<img width="1919" height="869" alt="Screenshot 2026-02-16 130527" src="https://github.com/user-attachments/assets/5e7f10d4-371b-4608-b2e0-960394d5564c" />
+<img wid<img width="1919" height="872" alt="Screenshot 2026-02-16 130644" src="https://github.com/user-attachments/assets/262beae1-2afc-41ee-bd33-22f4759cc483" />
+th="1919" he<img width="1919" height="893" alt="Screenshot 2026-02-16 130702" src="https://github.com/user-attachments/assets/de4c4c25-3815-4342-b437-a2a5f28d7326" />
+ight="874" alt="Screenshot 2026-02-16 130544" src="https://github.com/user-attachments/assets/ed5c00d8-aa2f-4769-b341-7d36b1a27c24" />
+<img width="1919" height="854" alt="Screenshot 2026-02-16 130608" src="https://github.com/user-attachments/as<img width="1919" height="873" alt="Screenshot 2026-02-16 130625" src="https://github.com/user-attachments/assets/e50c5423-1edc-4a97-9019-35e30504742a" />
+sets/8eaa2154-b2bd-48ca-93cd-a42138308f31" />
+<img width="1919" height="871" alt="Screenshot 2026-02-16 130722" src="https://github.com/user-attachments/assets/d317e353-ccff-4654-bb44-db70478cecbe" />
