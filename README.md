@@ -1,5 +1,7 @@
 # Project URL
-smart-business-management.vercel.app
+
+smart-inventory-and-billing-managem.vercel.app
+
 
 #Output of my project
 <img width="1907" height="872" alt="Screenshot 2026-02-16 130401" src="https://github.com/user-attachments/assets/014793e3-5919-4193-99e2-110179e51785" />
